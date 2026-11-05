@@ -1,0 +1,6 @@
+// Template only - replace placeholders from OFFICIAL board documentation
+IO_LOC "i_sw1" B16;
+IO_LOC "i_sw2" A15;
+IO_LOC "o_led" D14;
+// Add IO_PORT / standard / pull / drive settings ONLY when required
+// and only after verification from official course/device/board documentation.
